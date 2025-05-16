@@ -17,11 +17,7 @@
 			<artifactId>mysql-connector-j</artifactId>
 			<version>9.2.0</version>
 		</dependency>
-		<dependency>
-			<groupId>com.promineo</groupId>
-			<artifactId>mysql-java</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 	</dependencies>
 	
 	<build>

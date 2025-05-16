@@ -17,6 +17,7 @@ import projects.entity.Step;
 import projects.exception.DbException;
 import provided.util.DaoBase;
 
+
 public class ProjectDao extends DaoBase {
 	  private static final String CATEGORY_TABLE = "category";
 	  private static final String MATERIAL_TABLE = "material";
